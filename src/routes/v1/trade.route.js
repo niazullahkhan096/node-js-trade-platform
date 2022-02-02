@@ -1,7 +1,7 @@
 
 const express = require('express');
 const router = express.Router();
-const controller = require('./../../controller');
+const controller = require('./../../controllers');
 
 router.post('/buy', controller.trade.buy);
 router.post('/sell', controller.trade.sell);

@@ -1,7 +1,5 @@
 const trade = require("./trade.controller");
 
-
-
 const controller = {
     trade: trade
 };

@@ -6,8 +6,8 @@ const logger = require('morgan');
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-
-const router = require('./route');
+// internal imports
+const router = require('./routes');
 
 const app = express();
 

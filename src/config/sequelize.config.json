@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "eva_exchange",
+    "password": "ZsP?2^7u#4K(@Y]",
+    "database": "eva_exchange",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "eva_exchange",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "eva_exchange",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
